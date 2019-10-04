@@ -13,7 +13,7 @@ Currently:
 Details: 
 
 Landing Page for Colleague:
-![Login](/readmeimages/IMG_0899.png)
+![Login](/readmeimages/IMG_0899.PNG)
 
 
 
